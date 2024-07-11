@@ -1,0 +1,11 @@
+.feedItem {
+  list-style: none;
+  margin-right: 5px;
+}
+
+.wrrap {
+  display: flex;
+}
+.feedDesc {
+  margin-left: 20px;
+}

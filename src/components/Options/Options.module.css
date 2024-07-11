@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  list-style: none;
+}
+
+.optionItem {
+  margin-right: 10px;
+}
+
+.wrrap {
+  margin-bottom: 10px;
+}
